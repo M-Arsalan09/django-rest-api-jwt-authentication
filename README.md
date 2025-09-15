@@ -86,7 +86,7 @@ ENVIRONMENT = os.getenv('ENVIRONMENT', 'Development')
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/django-rest-jwt-auth.git
+git clone https://github.com/M-Arsalan09/django-rest-api-jwt-authentication.git
 cd django-rest-jwt-auth
 ```
 
